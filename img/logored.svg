@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="23px" viewBox="0 0 64 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="compass-copy" transform="translate(1.000000, 2.000000)" stroke-linecap="round" stroke-width="2" stroke="#E27373" stroke-linejoin="round">
+                <g id="Group">
+                    <circle id="Oval" cx="10" cy="10" r="10"></circle>
+                    <polygon id="Shape" points="14.24 5.76 12.12 12.12 5.76 14.24 7.88 7.88"></polygon>
+                </g>
+            </g>
+            <text id="IPP-Copy" font-family="Merriweather-Heavy, Merriweather" font-size="18" font-weight="600" letter-spacing="0.642857134" fill="#E27373">
+                <tspan x="30" y="19">IPP</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
